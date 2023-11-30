@@ -1,1 +1,1 @@
-For this project, we have to solve git tasks
+For this project, we have to solve git tasks (updated)
